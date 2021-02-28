@@ -6,8 +6,8 @@ https://www.tvnpass.com/player/channel/5b75a58f2cdce33d3cdc702c?ext=1.m3u8
 #EXTINF:-1 , TVN-2
 https://www.tvnpass.com/player/channel/5b75a57b2cdce33d3cdc702b?ext=0.m3u8
 
-#EXTINF:-1,Telemetro
- http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+#EXTINF:-1,oye tv
+https://go.medcom.com.pa//tm.smil/playlist.m3u8
 
 #EXTINF:-1,RPCTV
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
